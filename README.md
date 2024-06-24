@@ -3,7 +3,7 @@ Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
 
 ## Tecnologias que já estudei
 
-**Lingaugens de Programação**
+**Linguagens de Programação**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -20,7 +20,7 @@ Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPandori&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 
 ## Contato
-![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pandori/)
+![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/lucas-pandori/)
 
 Emails:
 * lucas.pandori@outlook.com
