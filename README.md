@@ -1,4 +1,4 @@
-## Olá, sou Lucas Pandori
+### Olá, sou Lucas Pandori
 Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
 
 ## Tecnologias que já estudei
