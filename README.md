@@ -3,7 +3,7 @@ Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
  
  [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pandori/)
 
-## Tecnologias que já estudei
+## Tecnologias que já tive contato
 
 **Linguagens de Programação**
 
