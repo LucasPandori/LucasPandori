@@ -21,7 +21,7 @@ Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
 
 ## Contato
 [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pandori/)
-Emails:
 
+Emails:
 * lucas.pandori@outlook.com
 * lucasfontgallandpandori@gmail.com
