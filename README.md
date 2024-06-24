@@ -17,7 +17,7 @@ Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
 
 ## Status
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Clauciofds&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPandori&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 
 ## Contato
 [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pandori/)
