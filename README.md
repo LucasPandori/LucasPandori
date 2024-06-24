@@ -15,7 +15,7 @@ Desenvolvedor Back-end | Node.js | Javascript | Typescript | Python
 
 **Outras tecnologias**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=whit) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=whit) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Status
 
