@@ -1,5 +1,5 @@
 # Olá, sou Lucas Pandori 🌌🪐
-Desenvolvedor Full-Stack | Node.js | Javascript | Typescript | Python
+Desenvolvedor Full-Stack | Node.js | Javascript | Typescript | HTML5 | CSS3
  
  [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pandori/)
 
